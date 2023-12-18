@@ -1,4 +1,4 @@
-# pdf_table_extraction
+# pdf_extraction
 Extract Content and Tables from PDF as json
 
 # Write a Python library to extract all sections and tables as json format from any given PDF. It should work for any PDF without any issues
